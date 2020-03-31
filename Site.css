@@ -34,6 +34,15 @@ text-align: center;
   padding: 10px;
   margin: auto;
 }
+p {
+    text-align: center;
+    font-family: Helvetica, Arial, Sans-Serif;
+    width: 300px;
+    background-color: #ffffff;
+    border: 5px solid black;
+    padding: 10px;
+    margin: auto;
+}
 
 body {
  background-image: url("https://f4.bcbits.com/img/a0798007642_16.jpg");
