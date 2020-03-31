@@ -10,14 +10,29 @@ margin: auto;
 h2{
 text-align: center;
   font-family: Helvetica, Arial, Sans-Serif;
+  width: 100px;
+  background-color: #ffffff;
+  border: 5px solid black;
+  padding: 10px;
+  margin: auto;
 }
 h3{
 text-align: center;
   font-family: Helvetica, Arial, Sans-Serif;
+  width: 100px;
+  background-color: #ffffff;
+  border: 5px solid black;
+  padding: 10px;
+  margin: auto;
 }
 h4{
 text-align: center;
   font-family: Helvetica, Arial, Sans-Serif;
+  width: 100px;
+  background-color: #ffffff;
+  border: 5px solid black;
+  padding: 10px;
+  margin: auto;
 }
 
 body {
