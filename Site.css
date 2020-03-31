@@ -1,22 +1,22 @@
 h1{
-margin: auto;
+text-align: center;
 font-family: Helvetica, Arial, Sans-Serif;
 }
 h2{
-  margin: auto;
+text-align: center;
   font-family: Helvetica, Arial, Sans-Serif;
 }
 h3{
-  margin: auto;
+text-align: center;
   font-family: Helvetica, Arial, Sans-Serif;
 }
 h4{
-  margin: auto;
+text-align: center;
   font-family: Helvetica, Arial, Sans-Serif;
 }
 
 body {
  background-image: url("https://f4.bcbits.com/img/a0798007642_16.jpg");
  background-repeat: repeat-x;
- background-color: #cccccc;
+ background-color: #B8C57A;
 }
