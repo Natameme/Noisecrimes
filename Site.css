@@ -3,7 +3,7 @@ text-align: center;
 font-family: Helvetica, Arial, Sans-Serif;
 width: 300px;
 background-color: #ffffff;
-border: 15px solid black;
+border: 10px solid black;
 padding: 5px;
 margin: auto;
 font-size: 40px;
@@ -11,10 +11,17 @@ font-size: 40px;
 div{
 text-align: center;
 font-family: Helvetica, Arial, Sans-Serif;
-max-width: 3000px;
+max-width: 5000px;
+background:#7f7f7f;
+  background:rgba(138, 138, 138,0.5);
+border: 5px solid black;
+padding: 5px;
 margin: auto;
+font-size: 40px;
 }
 a{
+text-decoration-color: #363636;
+text-emphasis-color: -color: #005c26;
 text-align: center;
 font-family: Helvetica, Arial, Sans-Serif;
 width: 300px;
@@ -23,17 +30,6 @@ border: 15px solid black;
 padding: 5px;
 margin: auto;
 font-size: 40px;
-}
-h3{
-text-align: center;
-  font-family: Helvetica, Arial, Sans-Serif;
-  width: 100px;
-  background-color: #ffffff;
-  border: 5px solid black;
-  padding: 5px;
-  margin: auto;
-  font-size: 40px;
-  opacity: 1;
 }
 h4{
 text-align: center;
@@ -45,16 +41,7 @@ text-align: center;
   margin: auto;
   opacity: 1;
 }
-p {
-    text-align: center;
-    font-family: Helvetica, Arial, Sans-Serif;
-    width: 300px;
-    background-color: #ffffff;
-    border: 5px solid black;
-    padding: 10px;
-    margin: auto;
-    opacity: 1;
-}
+
 
 body {
  background-image: url("https://f4.bcbits.com/img/a0798007642_16.jpg");
