@@ -26,7 +26,8 @@ p{
   color: #ebeaeb;
   width: 700px;
   margin: auto;
-  size: 14px;
+  size: 16px;
+  padding: 5px;
 }
 h4{
   width: 100px;
